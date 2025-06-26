@@ -1,7 +1,5 @@
 package Algorithms;
 
-import java.util.LinkedList;
-
 public class SinglyLinkedList {
     Node head;
     static class Node {
